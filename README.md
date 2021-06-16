@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Adrian Dsouza ![image](https://user-images.githubusercontent.com/60578726/122195781-49a64280-ceb4-11eb-8f34-17b02b305b92.png)
+
+
 <!--
 **adrian2504/adrian2504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
