@@ -1,7 +1,12 @@
 ### Hi there 👋
 ![image](https://user-images.githubusercontent.com/60578726/122195781-49a64280-ceb4-11eb-8f34-17b02b305b92.png)  
 
-I'm Adrian Dsouza 
+# I'm Adrian Dsouza 
+
+## My Coding Stack Includes
+
+
+           https://github-readme-stats.vercel.app/api?username=adrian2504&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 
 
 <!--
