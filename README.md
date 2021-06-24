@@ -1,11 +1,19 @@
-### Hi there 👋
-![image](https://user-images.githubusercontent.com/60578726/122195781-49a64280-ceb4-11eb-8f34-17b02b305b92.png)  
+### Hi there 👋 
+# I'm Adrian Dsouza 👨🏻‍💻
 
-# I'm Adrian Dsouza 
+## My Coding Stack Includes 
+<img src="https://user-images.githubusercontent.com/60578726/122199971-3a28f880-ceb8-11eb-8472-0c3e392f63f5.png" height="200px" width="200px">    <img src="https://user-images.githubusercontent.com/60578726/122200012-43b26080-ceb8-11eb-936e-0ee0b4841c64.png" height="150px" width="150px">    <img src="https://user-images.githubusercontent.com/60578726/122200037-4a40d800-ceb8-11eb-8d98-6284b0e486d2.png" height="200px" width="200px">    <img src="https://img.icons8.com/color/452/c-programming.png"  height="200px" width="200px"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="160px" height="160px">
 
-## My Coding Stack Includes  
-<img src="https://user-images.githubusercontent.com/60578726/122199971-3a28f880-ceb8-11eb-8472-0c3e392f63f5.png" height="300px" width="300px">    <img src="https://user-images.githubusercontent.com/60578726/122200012-43b26080-ceb8-11eb-936e-0ee0b4841c64.png" height="200px" width="200px">    <img src="https://user-images.githubusercontent.com/60578726/122200037-4a40d800-ceb8-11eb-8d98-6284b0e486d2.png" height="300px" width="300px">  
+## My Domain Of Intrest
+#### •🧠Machine Learning 
+#### •💻Full Stack Web Development
+#### •📊Data Science
+#### •🔐Cybersecurity
 
+### Always Looking for Projects to contribute and Upskill Myself.
+
+### Feel Free to connect wiht me at the below Gmail
+adriandsouza2504@gmail.com
 
 ### STATS  
 <img src="https://github-readme-stats.vercel.app/api?username=adrian2504&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
