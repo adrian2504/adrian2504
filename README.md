@@ -12,7 +12,7 @@
 
 ### Always Looking for Projects to contribute and Upskill Myself.
 
-### Feel Free to connect wiht me at the below Gmail
+### Feel Free to connect with me at the below Gmail
 adriandsouza2504@gmail.com
 
 ### STATS  
