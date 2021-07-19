@@ -18,6 +18,8 @@ adriandsouza2504@gmail.com
 ### STATS  
 <img src="https://github-readme-stats.vercel.app/api?username=adrian2504&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+![Visitor Count](https://profile-counter.glitch.me/{adrian2504}/count.svg)
+
 
 <!--
 **adrian2504/adrian2504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
