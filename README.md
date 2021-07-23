@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there  :wave:
 # I'm Adrian Dsouza 👨🏻‍💻
 
 ## My Coding Stack Includes 
@@ -16,6 +16,8 @@
 adriandsouza2504@gmail.com
 
 ### STATS  
+![](https://komarev.com/ghpvc/?username=adrian2504&color=blue)
+
 <img src="https://github-readme-stats.vercel.app/api?username=adrian2504&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
