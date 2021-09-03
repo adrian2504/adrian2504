@@ -18,6 +18,10 @@
 ### Feel Free to connect with me at the below Gmail
 adriandsouza2504@gmail.com
 
+### Also Connect with me on LinkedIn
+https://www.linkedin.com/in/adrian-dsouza-b84a7a1b0/
+
+
 ### STATS  
 ![](https://komarev.com/ghpvc/?username=adrian2504&color=blue)
 
