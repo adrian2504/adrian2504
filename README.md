@@ -5,7 +5,16 @@
 <img src="/SS/Adrian Dsouza - Banner (3).png">
 
 ## My Coding Stack Includes 
-<img src="https://user-images.githubusercontent.com/60578726/122199971-3a28f880-ceb8-11eb-8472-0c3e392f63f5.png" height="200px" width="200px">    <img src="https://user-images.githubusercontent.com/60578726/122200012-43b26080-ceb8-11eb-936e-0ee0b4841c64.png" height="150px" width="150px">    <img src="https://user-images.githubusercontent.com/60578726/122200037-4a40d800-ceb8-11eb-8d98-6284b0e486d2.png" height="200px" width="200px">    <img src="https://img.icons8.com/color/452/c-programming.png"  height="200px" width="200px"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="160px" height="160px">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="150px" width="200px"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" height="150px" width="220px"> <img src="https://cdn-images-1.medium.com/max/1200/1*ti5CnGh_T4Kqy5aCTLJRcg.png" height="150px" width="180px">
+
+### Languages
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" > 
+
+### Web Technologies, frameworks and tools
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+
+### Data Science and Machine Learning
+
+###
 
 ## My Domain Of Intrest
 #### •🧠Machine Learning 
