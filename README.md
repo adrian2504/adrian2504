@@ -30,6 +30,8 @@
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 
 ## My Domain Of Interest
+
+#### •🤖Artificial Intelligence
 #### •🧠Machine Learning 
 #### •📊Data Science
 #### •💻Full Stack Web Development
