@@ -45,6 +45,10 @@ adriandsouza2504@gmail.com
 ### Also Connect with me on LinkedIn
 https://www.linkedin.com/in/adrian-dsouza-b84a7a1b0/
 
+### Hacktoberfest Badge Dashboard
+[![@adrian2504's Holopin board](https://holopin.me/adrian2504)](https://holopin.io/@adrian2504)
+
+
 ### STATS  
 ![](https://komarev.com/ghpvc/?username=adrian2504&color=blue)
 
