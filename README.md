@@ -1,8 +1,9 @@
 ### Hi there  :wave:
 # I'm Adrian Dsouza 👨🏻‍💻
 
+![adrian-banner](https://github.com/user-attachments/assets/09b01966-2be4-43fe-aeb1-3313b287c0e4)
 
-<img src="/SS/Adrian Dsouza - Banner (3).png">
+
 
 ## My Coding Stack Includes 
 
@@ -35,9 +36,8 @@
 #### •🧠Machine Learning 
 #### •📊Data Science
 #### •💻Full Stack Web Development
-#### •🔐Cybersecurity
 
-### Always Looking for Projects to contribute and Upskill Myself.
+### Always Looking for Projects to contribute to and Upskill Myself.
 
 ### Feel Free to connect with me at the below Gmail
 adriandsouza2504@gmail.com
