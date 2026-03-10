@@ -126,4 +126,4 @@ Repo: https://github.com/adrian2504/Dining-Concierge-project-Deployed-Fully-on-A
 If you're hiring for **SWE / Backend / AI-ML roles**, I’d love to chat.
 
 ### STATS
-![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrian2504&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
+![Adrian's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=adrian2504&show_icons=true&theme=dark&hide_border=true)
